@@ -25,3 +25,4 @@ Implementation
 Optimizing networks with [the GPU](http://benanne.github.io/2014/04/03/faster-convolutions-in-theano.html) and [Fast Fourier Transformations](http://benanne.github.io/2014/05/12/fft-convolutions-in-theano.html)
 
 [Composting Music with Recurrent Neural Networks](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)
+[Detecting diabetic retinopathy in eye images](http://jeffreydf.github.io/diabetic-retinopathy-detection/)
