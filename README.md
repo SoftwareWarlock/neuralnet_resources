@@ -6,6 +6,7 @@ Learning
 [Neural Networks for Machine Learning](https://class.coursera.org/neuralnets-2012-001/lecture) by Geoffrey Hinton on coursera
 
 [Neural Networks Demystified](https://www.youtube.com/playlist?list=PL5t4_3NCwW7fgzk4FI3h1PdFxlHcyitxR) by Stephen Welch
+[(Associated iPythonNotebook)](http://nbviewer.ipython.org/github/stephencwelch/Neural-Networks-Demysitifed/tree/master/)
 
 [Who is Afraid of Non-Convex Loss Functions?](http://videolectures.net/eml07_lecun_wia/) by Yann LeCun
 
