@@ -4,7 +4,8 @@ Neural Network Resources
 Learning
 --------
 [Neural Networks for Machine Learning](https://class.coursera.org/neuralnets-2012-001/lecture) by Geoffrey Hinton on coursera
-[Neural Networks Demystified](https://www.youtube.com/playlist?list=PL5t4_3NCwW7fgzk4FI3h1PdFxlHcyitxR) by 
+
+[Neural Networks Demystified](https://www.youtube.com/playlist?list=PL5t4_3NCwW7fgzk4FI3h1PdFxlHcyitxR) by Stephen Welch
 
 
 Implementation
