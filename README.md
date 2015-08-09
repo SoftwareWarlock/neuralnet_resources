@@ -7,6 +7,8 @@ Learning
 
 [Neural Networks Demystified](https://www.youtube.com/playlist?list=PL5t4_3NCwW7fgzk4FI3h1PdFxlHcyitxR) by Stephen Welch
 
+[Who is Afraid of Non-Convex Loss Functions?](http://videolectures.net/eml07_lecun_wia/) by Yann LeCun
+
 
 Implementation
 --------------
