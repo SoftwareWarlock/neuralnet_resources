@@ -10,6 +10,8 @@ Learning
 
 [Who is Afraid of Non-Convex Loss Functions?](http://videolectures.net/eml07_lecun_wia/) by Yann LeCun
 
+[Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah ([@colah](https://github.com/colah/))
+
 
 Implementation
 --------------
