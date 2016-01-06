@@ -19,6 +19,10 @@ Implementation
 
 [Theano tutorial](http://deeplearning.net/software/theano/tutorial/index.html)
 
+[Lasagne tutorial](http://lasagne.readthedocs.org/en/latest/user/tutorial.html)
+
+[Lasagne recipies](https://github.com/Lasagne/Recipes) (Great examples of how to do more complex stuff with Lasagne)
+
 ###Advanced
 [Galaxy Classification example](http://benanne.github.io/2014/04/16/galaxy-zoo-code.html) by Sander Dieleman
 
