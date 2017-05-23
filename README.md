@@ -23,7 +23,7 @@ Implementation
 
 [Lasagne recipies](https://github.com/Lasagne/Recipes) (Great examples of how to do more complex stuff with Lasagne)
 
-###Advanced
+### Advanced
 [Galaxy Classification example](http://benanne.github.io/2014/04/16/galaxy-zoo-code.html) by Sander Dieleman
 
 [Plankton Classification example](http://benanne.github.io/2015/03/17/plankton.html) by Sander Dieleman
